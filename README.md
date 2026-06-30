@@ -89,20 +89,21 @@ Cities Covered:
 
 ## Screenshots
 
-### Real-Time AQI Dashboard
-(Add Screenshot)
+## Real-Time AQI Dashboard
 
-### Interactive Pollution Map
-(Add Screenshot)
+![Dashboard](screenshots/dashboard.png)
 
-### Model Comparison
-(Add Screenshot)
+## Interactive Pollution Map
 
-### Feature Importance
-(Add Screenshot)
+![Map](screenshots/map.png)
 
-### Future AQI Prediction
-(Add Screenshot)
+## Model Comparison
+
+![Model Comparison](screenshots/model_comparison.png)
+
+## AQI Prediction Output
+
+![Prediction](screenshots/prediction.png)
 
 ## Installation
 
@@ -127,7 +128,3 @@ jupyter notebook AirWise.ipynb
 - Mobile application
 - AQI alert notification system
 - Expanded coverage to more cities
-
-## Author
-
-Sanjana
